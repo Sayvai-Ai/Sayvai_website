@@ -33,7 +33,7 @@ const defaultTestimoni = [
     description:
       "Our AI-powered solutions optimize digital marketing by improving targeting, boosting engagement, and maximizing ROI.",
     image: "/images/Testimoni/DM.jpg",
-    link: "/digital-marketing",
+    link: "/DigitalMarketing",
   },
   {
     name: "Sales and Support",
