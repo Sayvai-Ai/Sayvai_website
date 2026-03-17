@@ -7,9 +7,14 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sayvai",
-  // description: "",
-  // other metadata
+  title: "10 Amazing Sites for Free Stock Photos & Digital Assets | Sayvai",
+  description: "Discover the best free resources for stock photos, digital assets, and creative materials. A comprehensive guide to high-quality, royalty-free content for your projects.",
+  keywords: "free stock photos, digital assets, royalty-free images, creative resources, design assets, stock photography",
+  openGraph: {
+    title: "10 Amazing Sites for Free Stock Photos & Digital Assets",
+    description: "Your ultimate guide to the best free stock photo and digital asset websites for designers and creators.",
+    type: "article",
+  },
 };
 
 const BlogSidebarPage = () => {

@@ -4,9 +4,14 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Contact Page ",
-  // description: "",
-  // other metadata
+  title: "Contact Sayvai - Get in Touch for AI Solutions | Support & Inquiries",
+  description: "Ready to transform your business with AI? Contact Sayvai for inquiries, support, or to discuss your AI solution needs. We're here to help you succeed.",
+  keywords: "contact Sayvai, AI solutions support, business inquiries, AI consultation, customer support",
+  openGraph: {
+    title: "Contact Sayvai - Let's Discuss Your AI Solution",
+    description: "Get in touch with Sayvai for AI-powered business solutions. We're ready to help transform your operations.",
+    type: "website",
+  },
 };
 
 const ContactPage = () => {

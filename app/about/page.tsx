@@ -8,9 +8,14 @@ import { Metadata } from "next";
 import AnimatedSection from "@/components/About/AnimatedSection";
 
 export const metadata: Metadata = {
-  title: "Sayvai",
-  // description: "",
-  // other metadata
+  title: "About Sayvai - AI Innovation with Human Connection | Our Story",
+  description: "Learn about Sayvai's mission to make AI accessible and valuable. We're committed to helping businesses embrace the future with AI that enhances human connections and drives innovation.",
+  keywords: "about Sayvai, AI company, business AI solutions, AI innovation, human-centered AI, AI transformation",
+  openGraph: {
+    title: "About Sayvai - AI Innovation with Human Connection",
+    description: "Discover Sayvai's commitment to compassionate AI solutions that enhance human connections and drive business growth.",
+    type: "website",
+  },
 };
 
 const AboutPage = () => {

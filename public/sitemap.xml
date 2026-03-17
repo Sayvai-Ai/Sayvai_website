@@ -18,6 +18,16 @@
   </url>
 
   <url>
+    <loc>https://sayvai.com/blog-details</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://sayvai.com/blog-sidebar</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
     <loc>https://sayvai.com/services</loc>
     <priority>0.8</priority>
   </url>
@@ -33,7 +43,7 @@
   </url>
 
   <url>
-    <loc>https://sayvai.com/Fashion_Industry</loc>
+    <loc>https://sayvai.com/Leagal&amp;Compliance</loc>
     <priority>0.7</priority>
   </url>
 

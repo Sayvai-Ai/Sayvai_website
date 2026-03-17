@@ -2,8 +2,8 @@ import LegalCompliance from "@/components/Solutions/Legal&Compliance/Legal&Compl
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Digital Marketing | Sayvai",
-  description: "AI-driven Digital Marketing solutions by Sayvai: strategy, automation, analytics, and optimization.",
+  title: "Legal & Compliance | Sayvai",
+  description: "AI-driven Legal & Compliance solutions by Sayvai: automation, risk assessment, and regulatory compliance.",
 };
 
 const LegalCompliancePage = () => {

@@ -5,9 +5,14 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "sayvai",
-  // description: "",
-  // other metadata
+  title: "Fashion Industry AI Solutions | Sayvai Blog",
+  description: "Explore how AI is transforming the fashion industry. Learn about automation, trend analysis, and innovative solutions that help fashion businesses stay competitive.",
+  keywords: "fashion industry AI, fashion automation, AI fashion trends, retail technology, fashion business solutions",
+  openGraph: {
+    title: "Fashion Industry AI Solutions | Sayvai Blog",
+    description: "Discover how AI is revolutionizing the fashion industry with automation and intelligent solutions.",
+    type: "article",
+  },
 };
 
 const BlogDetailsPage = () => {

@@ -3,8 +3,14 @@ import ScrollUp from "@/components/Common/ScrollUp";
 import AnimatedSections from "@/components/Home/AnimatedSections";
 
 export const metadata: Metadata = {
-  title: "Sayvai",
-  description: "AI solutions",
+  title: "Sayvai - AI-Powered Business Solutions | Transform Your Operations",
+  description: "Sayvai delivers cutting-edge AI solutions for retail, finance, fashion, and sales industries. Boost productivity, automate processes, and drive growth with our intelligent business solutions.",
+  keywords: "AI solutions, artificial intelligence, business automation, retail AI, finance AI, fashion industry AI, sales automation, customer service AI",
+  openGraph: {
+    title: "Sayvai - AI-Powered Business Solutions",
+    description: "Transform your business with AI-powered solutions for retail, finance, fashion, and sales industries.",
+    type: "website",
+  },
 };
 
 const defaultTestimoni = [
